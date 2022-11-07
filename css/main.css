@@ -130,7 +130,7 @@ body {
     height: auto;
     margin-top: 152px;
 }
-.hero-container h2 {
+.hero-intro-heading {
     height: 16px;
     width: 155px;
     left: 100px;
@@ -141,6 +141,19 @@ body {
     line-height: 16px;
     letter-spacing: 0em;
     margin-top: 20px;
+}
+.hero-main-heading {
+    height: 200px;
+    width: 857px;
+    border-radius: nullpx;
+    font-family: Acme;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 100px;
+    letter-spacing: 0em;
+}
+.hero-main-heading-span {
+    text-decoration: underline;
 }
 
 
