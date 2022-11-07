@@ -13,6 +13,7 @@ body {
     color: rgba(255, 255, 255, 1);
     font-size: 1.6rem;
     padding-top: 66px;
+    
 }
 .header-section {
     height: auto;
@@ -248,7 +249,7 @@ footer {
 }
 .footer-subcontainer-1 {
     height: 136px;
-    
+    margin-bottom: 80px;
 }
 .footer-subcontainer-1-1 {
     display: flex;
@@ -278,6 +279,6 @@ footer {
     text-align: left;
     color: rgba(255, 255, 255, 0.9);
     margin-top: 20px;
-    margin-bottom: 46px;
+    
 
 }
