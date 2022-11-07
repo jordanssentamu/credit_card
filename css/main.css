@@ -6,8 +6,8 @@ html {
     font-size: 62.5%;
 }
 body {
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
     font-family: 'Poppins', 'Acme';
     background: rgba(22, 21, 25, 1);
     color: rgba(255, 255, 255, 1);
@@ -129,6 +129,7 @@ body {
     width: 100%;
     height: auto;
     margin-top: 152px;
+    display: flex;
 }
 .hero-intro-heading {
     height: 16px;
@@ -144,9 +145,9 @@ body {
 }
 .hero-main-heading {
     height: 200px;
-    width: 857px;
+    width: 598px;
     font-family: Acme;
-    font-size: 80px;
+    font-size: 59px;
     font-weight: 400;
     line-height: 100px;
     letter-spacing: 0em;
@@ -169,15 +170,15 @@ body {
 }
 .hero-star-svg {
     position: absolute;
-    height: 40px;
-    width: 40px;
-    left: 576px;
+    height: 30px;
+    width: 30px;
+    left: 405px;
     top: 524px;
  }
  .hero-text {
     margin-top: 16px;
     height: 56px;
-    width: 734px;
+    width: 710px;
     font-family: Poppins;
     font-size: 18px;
     font-weight: 400;
@@ -204,4 +205,21 @@ body {
 .hero-arrow-img {
     margin-left: 104px;
     margin-top: 27px;
+}
+.hero-container-2 {
+    margin-left: -36px;
+    
+}
+.hero-img-2-1 {
+    height: 216.7603349524748px;
+    width: 474.8101860767356px;
+    object-fit: contain;
+}
+.hero-img-2-2 {
+    height: 216.2968949805417px;
+    width: 474.2795399633767px;
+    object-fit: contain;
+    position: relative;
+    z-index: -1;
+    top: -140px;
 }
