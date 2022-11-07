@@ -17,6 +17,8 @@ body {
 .header-section {
     height: auto;
     width: 100%;
+    display: flex;
+    justify-content: space-between;
 }
 .header-logo-container {
     display: flex;
@@ -53,8 +55,8 @@ body {
     letter-spacing: 0em;
 }
 .nav-section {
-    height: 18.000244140625px;
-    width: 685.3762817382812px;
+    height: auto;
+    width: auto;
     
 }
 .nav-section ul {
@@ -62,7 +64,11 @@ body {
     margin: 0px;
     padding: 0px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    height: 18.000244140625px;
+    width: 685.3762817382812px;
+    gap: 27px;
 }
 .nav-section ul li {
     height: 18px;
@@ -77,6 +83,44 @@ body {
     text-decoration: none;
     color: rgba(255, 255, 255, 1);
 }
+.select-subcontainer-1 {
+    display: flex;
+    height: 20px;
+    width: 80px;
+    justify-content: space-between;
+}
+.arrow {
+    height: 6px;
+    width: 10px;
+    margin-top: 7px;
+} 
+.global {
+    height: 20px;
+    width: 20px;
+}
+.header-select-container {
+    display: flex;
+    gap: 50px;
+}
+.select-subcontainer-1 p {
+    height: 18px;
+    width: 28px;
+    font-family: Acme;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+}
+.select-subcontainer-2 {
+    height: auto;
+    width: auto;
+}
+.select-subcontainer-2-1 {
+    height: 2px;
+    width: 36px;
+    margin-bottom: 5px;
+    background: rgba(255, 255, 255, 1);
 
+} 
 
 
