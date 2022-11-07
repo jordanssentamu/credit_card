@@ -223,3 +223,19 @@ body {
     z-index: -1;
     top: -140px;
 }
+footer {
+    margin-top: 7.83px;
+    height: auto;
+    width: 100%;
+}
+.footer-main-heading {
+    height: 48px;
+    width: 527px;
+    font-family: Acme;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    margin-left: 325px;
+    margin-bottom: 71px;
+}    
