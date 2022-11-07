@@ -223,6 +223,7 @@ body {
     z-index: -1;
     top: -140px;
 }
+/* footer */
 footer {
     margin-top: 7.83px;
     height: auto;
@@ -239,3 +240,10 @@ footer {
     margin-left: 325px;
     margin-bottom: 71px;
 }    
+.footer-subcontainer-1-1 {
+    display: flex;
+}
+.subcontainer-1-1-img {
+    height: 40px;
+    width: 40px;
+}
