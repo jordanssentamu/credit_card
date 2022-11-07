@@ -200,9 +200,8 @@ body {
     width: 220px;
      border-radius: 32px;
     background: linear-gradient(90.47deg, #A53883 0.33%, #E53345 46.14%, #FB8749 99.59%);
-
-    
-
-
-
+}
+.hero-arrow-img {
+    margin-left: 104px;
+    margin-top: 27px;
 }
