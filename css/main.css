@@ -12,4 +12,32 @@ body {
     background: rgba(22, 21, 25, 1);
     color: rgba(255, 255, 255, 1);
     font-size: 1.6rem;
+    padding-top: 66px;
+}
+.header-section {
+    height: auto;
+    width: 100%;
+}
+.header-logo-container {
+    display: flex;
+    height: 24px;
+    width: 122px;
+}  
+.header-logo-subcontainer {
+    display: flex;
+} 
+.logo-subcontainer--1 {
+    height: 24px;
+    width: 24px;
+    border-radius: 50px;
+    background: linear-gradient(90.47deg, #A53883 0.33%, #E53345 46.14%, #FB8749 99.59%);
+    z-index: 1;
+}
+.logo-subcontainer--2 {
+    height: 23px;
+    width: 23px;
+    border-radius: 50px;
+    border: 1px solid rgba(165, 56, 131, 0.7);
+    margin-top: -1px;
+    margin-left: -14px;
 }
