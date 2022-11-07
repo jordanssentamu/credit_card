@@ -164,6 +164,14 @@ body {
     top: 219px;
     left: 115px;
     z-index: -1;
+}
+.hero-star-svg {
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 576px;
+    top: 540px;
+    margin-bottom: 16px;
+   
 
 }
-
