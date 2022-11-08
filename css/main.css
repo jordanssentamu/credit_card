@@ -270,7 +270,7 @@ footer {
 }
 .subcontainer-1-text {
     height: 84px;
-    width: 317px;
+    width: 281px;
     font-family: Poppins;
     font-size: 18px;
     font-weight: 400;
@@ -279,6 +279,14 @@ footer {
     text-align: left;
     color: rgba(255, 255, 255, 0.9);
     margin-top: 20px;
-    
-
+    margin-left: 50px;
+}
+.line1-img {
+    height: 485.5436367342169px;
+    width: 100%;
+    left: -70.2752685546875px;
+    top: 339.224365234375px;
+    border-radius: 0px;
+    position: absolute;
+    transform: rotate(-18.03deg);
 }
