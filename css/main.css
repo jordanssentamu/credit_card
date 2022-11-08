@@ -286,8 +286,16 @@ footer {
     width: 90%;
     left: 33.724731px;
     top: 44.224365px;
-    border-radius: 0px;
     position: absolute;
     transform: rotate(-12.03deg);
     z-index: -2;
 }
+.line1-img2 {
+    /* height: 485.5436367342169px; */
+    width: 96.5%;
+    left: -21.2752685546875px;
+    top: 123.224365234375px;
+    transform: rotate(-5.35deg);
+    position: absolute;
+    z-index: -3;
+    }
