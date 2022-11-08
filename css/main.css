@@ -129,7 +129,7 @@ body {
 .hero-section {
     width: 100%;
     height: auto;
-    margin-top: 152px;
+    margin-top: 95px;
     display: flex;
 }
 .hero-intro-heading {
@@ -174,7 +174,7 @@ body {
     height: 30px;
     width: 30px;
     left: 405px;
-    top: 524px;
+    top: 477px;
  }
  .hero-text {
     margin-top: 16px;
@@ -282,11 +282,12 @@ footer {
     margin-left: 50px;
 }
 .line1-img {
-    height: 485.5436367342169px;
-    width: 100%;
-    left: -70.2752685546875px;
-    top: 339.224365234375px;
+    /* height: 485.5436367342169px; */
+    width: 90%;
+    left: 33.724731px;
+    top: 44.224365px;
     border-radius: 0px;
     position: absolute;
-    transform: rotate(-18.03deg);
+    transform: rotate(-12.03deg);
+    z-index: -2;
 }
